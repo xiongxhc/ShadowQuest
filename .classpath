@@ -4,7 +4,7 @@
 	<classpathentry exported="true" kind="lib" path="lib/jinput.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/lwjgl.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/xhc/Documents/workspace/GAME_resource/slick_libraries"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Project2/slick_libraries"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="lib/slick.jar"/>
