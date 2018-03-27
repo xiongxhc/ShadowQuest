@@ -1,0 +1,4 @@
+Amulet of Vitality,amulet.png,HP/Max HP +80,965,3563
+Sword of Strength,sword.png,Damage +30,546,6707
+Tome of Agility,tome.png,Cooldown -300,4791,1253
+Elixir of Life,elixir.png,None,1976,402
